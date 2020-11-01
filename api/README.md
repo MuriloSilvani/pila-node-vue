@@ -5,12 +5,12 @@
 - access project path like 'cd pilas-node-vue'
 - access api path like 'cd api'
 - install dependencies
-  -- with npm like 'npm install'
-  -- with yarn like 'yarn install'
+- - with npm like 'npm install'
+- - with yarn like 'yarn install'
 - run develop server
-  -- with npm like 'npm run dev'
-  -- with yarn like 'yarn dev'
+- - with npm like 'npm run dev'
+- - with yarn like 'yarn dev'
 
 ### Database config (not necessary)
--- in api path delete database.sqlite if exists
--- yarn knex migrate:latest
+- - in api path delete database.sqlite if exists
+-   - yarn knex migrate:latest
