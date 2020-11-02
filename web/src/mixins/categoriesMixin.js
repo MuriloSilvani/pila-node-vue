@@ -5,7 +5,8 @@ export default {
     ...mapGetters([
       'getCategories',
       'getIdCategory',
-      'getCategory'
+      'getCategory',
+      'isLoadingCategory'
     ])
   },
   methods: {
